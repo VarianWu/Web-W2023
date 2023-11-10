@@ -51,8 +51,8 @@ We will update the assignments and solutions here.
 
 We will have two projects in this course. The relevant information can be found in the table below. The schedule is tentative and subject to changes.
 
-|Project|Due |Instruction||
-|:-------:|:-------------:|:----:|
+|Project|Due |Instruction|
+|:-----:|:--:|:----:|
 |Project 1|02.20 (11:59PM)||
 |Project 2|03.03 (11:59PM)||
 

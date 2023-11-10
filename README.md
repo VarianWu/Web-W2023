@@ -39,8 +39,8 @@ Session|Date|Instructor|Topic|Jupyter Notebook|Slides|Video|Video PW|Note|
 
 We will update the assignments and solutions here.
 
-|Index|Assignment|Solution|Due|
-|:---:|:--------:|:------:|:-:|
+|Index|Due|Assignment|Solution|
+|:---:|:-:|:--------:|:------:|
 |1||||
 |2||||
 |3||||
@@ -70,7 +70,7 @@ We will have a final exam at 6:30PM on February 27. The exam will cover the enti
 
 We provide a lot of references for both Python programming and Analytics. For more information, please visit the links below.
 
-- [Python and Analytics References](https://github.com/DSME6756-2023/BA-W2023/tree/main/Python%20References)
+- [Python and Analytics References](https://github.com/DSME-6653/Web-W2023/tree/main/References)
 - [SQL References](https://github.com/DSME6756-2023/BA-W2023/tree/main/SQL%20References)
 
 If you are unfamilar with GitHub, please read [this doc](https://docs.github.com/en/get-started/quickstart). However, it will suffice to know the very basics of GitHub for the need of this course.

@@ -23,15 +23,15 @@ The following schedule is tentative and subject to changes.
 Session|Date|Instructor|Topic|Jupyter Notebook|Slides|Video|Video PW|Note|
 :-------:|:---:|:-----:|:---:|:--------------:|:----:|:---:|:------:|:---:|
 |1|12.05|Philip Zhang|Introduction||||||
-|2|12.12|Philip Zhang|Code w/ AI||||||
-|3|12.19|Philip Zhang|Linear Models||||||
-|4|01.02|Philip Zhang|BV Trade-off||||||
-|5|01.09|Philip Zhang|Trees||||||
-|6|01.16|Kevin Chen|Ensemble||||||
-|7|01.23|Kevin Chen|Clustering||||||
-|8|01.30|Kevin Chen|PCA||||||
-|9|02.06|Kevin Chen|Neural Networks||||||
-|10|02.20|Kevin Chen|Generative AI||||||
+|2|12.12|Philip Zhang|A/B Testing||||||
+|3|12.19|Philip Zhang|Regression & Matching||||||
+|4|01.02|Philip Zhang|IV & Panel||||||
+|5|01.09|Philip Zhang|ML & Causal||||||
+|6|01.16|Kevin Chen|TBD||||||
+|7|01.23|Kevin Chen|TBD||||||
+|8|01.30|Kevin Chen|TBD||||||
+|9|02.06|Kevin Chen|TBD||||||
+|10|02.20|Kevin Chen|TBD||||||
 |11|03.27|N.A.|Final Exam||||||
 
 

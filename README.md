@@ -32,7 +32,7 @@ Session|Date|Instructor|Topic|Jupyter Notebook|Slides|Video|Video PW|Note|
 |8|01.30|Kevin Chen|TBD||||||
 |9|02.06|Kevin Chen|TBD||||||
 |10|02.20|Kevin Chen|TBD||||||
-|11|03.27|N.A.|Final Exam||||||
+|11|02.27|N.A.|Final Exam||||||
 
 
 ## Assignments

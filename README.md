@@ -5,7 +5,7 @@
 
 * *Instructor 1*: [Renyu (Philip) Zhang](https://rphilipzhang.github.io/rphilipzhang/index.html), Associate Professor, Department of Decisions, Operations and Technology, CUHK Business School, philipzhang@cuhk.edu.hk, @911 Cheng Yu Tung Building.
 * *Instructor 2*: [Hongfan (Kevin) Chen](https://sites.google.com/view/hongfan-chen/home), Assistant Professor, Department of Decisions, Operations and Technology, CUHK Business School, kevinchen@cuhk.edu.hk, @936 Cheng Yu Tung Building.
-* *Teaching Assistant*: [Yilin Shi](https://grad.bschool.cuhk.edu.hk/students/shi-yilin/), PhD Candidate, Department of Decisions, Operations and Technology, CUHK Business School.
+* *Teaching Assistant*: [Yilin Shi](https://grad.bschool.cuhk.edu.hk/students/shi-yilin/), PhD Candidate, Department of Decisions, Operations and Technology, CUHK Business School, ylshi@link.cuhk.edu.hk.
 
 ## About
 Welcome to the mono-repo for the Web Analytics and Intelligence (DSME 6653) course. You may download the [Syllabus](https://github.com/DSME-6653/Web-W2023/blob/main/Syllabus/Web_Syllabus_W2023.pdf) of this course first. If you have any feedback on this course, please submit it via this [Survey](https://docs.google.com/forms/d/e/1FAIpQLSeHQOp-9GPJXWAlIo6tKH2Wcadk-5BP4V5eudpyrDxVeyPtVw/viewform) and we will try our best to address it.
@@ -22,7 +22,7 @@ The following schedule is tentative and subject to changes.
 
 Session|Date|Instructor|Topic|Jupyter Notebook|Slides|Video|Video PW|Note|
 :-------:|:---:|:-----:|:---:|:--------------:|:----:|:---:|:------:|:---:|
-|1|12.05|Philip Zhang|Introduction||||||
+|1|12.05|Philip Zhang|Introduction|[Causal](https://github.com/DSME-6653/Web-W2023/tree/main/Jupyter%20Notebook/1-Causal)|[Intro](https://github.com/DSME-6653/Web-W2023/blob/main/Slides/Web-W2023-1-Introduction.pdf)||||
 |2|12.12|Philip Zhang|A/B Testing||||||
 |3|12.19|Philip Zhang|Regression & Matching||||||
 |4|01.02|Philip Zhang|IV & Panel||||||

@@ -3,8 +3,8 @@
 
 ## Teaching Team
 
-* *Instructors 1*: [Renyu (Philip) Zhang](https://rphilipzhang.github.io/rphilipzhang/index.html), Associate Professor, Department of Decisions, Operations and Technology, CUHK Business School, philipzhang@cuhk.edu.hk, @911 Cheng Yu Tung Building.
-* *Instructors 2*: [Hongfan (Kevin) Chen](https://sites.google.com/view/hongfan-chen/home), Assistant Professor, Department of Decisions, Operations and Technology, CUHK Business School, kevinchen@cuhk.edu.hk, @936 Cheng Yu Tung Building.
+* *Instructor 1*: [Renyu (Philip) Zhang](https://rphilipzhang.github.io/rphilipzhang/index.html), Associate Professor, Department of Decisions, Operations and Technology, CUHK Business School, philipzhang@cuhk.edu.hk, @911 Cheng Yu Tung Building.
+* *Instructor 2*: [Hongfan (Kevin) Chen](https://sites.google.com/view/hongfan-chen/home), Assistant Professor, Department of Decisions, Operations and Technology, CUHK Business School, kevinchen@cuhk.edu.hk, @936 Cheng Yu Tung Building.
 * *Teaching Assistant*: [Yilin Shi](https://grad.bschool.cuhk.edu.hk/students/shi-yilin/), PhD Candidate, Department of Decisions, Operations and Technology, CUHK Business School.
 
 ## About

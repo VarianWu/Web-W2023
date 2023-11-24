@@ -8,7 +8,7 @@
 * *Teaching Assistant*: [Yilin Shi](https://grad.bschool.cuhk.edu.hk/students/shi-yilin/), PhD Candidate, Department of Decisions, Operations and Technology, CUHK Business School.
 
 ## About
-Welcome to the mono-repo for the Business Intelligence Technologies and Applications (DSME 6756BA/B) course. You may download the [Syllabus]() of this course first. If you have any feedback on this course, please submit it via this [Survey]() and we will try our best to address it.
+Welcome to the mono-repo for the Business Intelligence Technologies and Applications (DSME 6756BA/B) course. You may download the [Syllabus]() of this course first. If you have any feedback on this course, please submit it via this [Survey](https://docs.google.com/forms/d/e/1FAIpQLSeHQOp-9GPJXWAlIo6tKH2Wcadk-5BP4V5eudpyrDxVeyPtVw/viewform) and we will try our best to address it.
 
 The course will be carried out in person in Wu Ho Man Yuen Building (WMY) 303 at 6:30pm-9:15pm, Tuesday. Please ask for our approval if you need to join us via the following Zoom links:
 

@@ -41,7 +41,7 @@ We will update the assignments and solutions here.
 
 |Index|Due|Assignment|Solution|
 |:---:|:-:|:--------:|:------:|
-|1||||
+|1|6:30pm, Dec 12, 2023|[PS1](https://github.com/DSME-6653/Web-W2023/blob/main/Problem%20Sets/PS1/Problem-Set_1.pdf)||
 |2||||
 |3||||
 |4||||

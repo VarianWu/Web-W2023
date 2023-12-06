@@ -23,7 +23,7 @@ The following schedule is tentative and subject to changes.
 Session|Date|Instructor|Topic|Jupyter Notebook|Slides|Video|Video PW|Note|
 :-------:|:---:|:-----:|:---:|:--------------:|:----:|:---:|:------:|:---:|
 |1|12.05|Philip Zhang|Introduction|[Causal](https://github.com/DSME-6653/Web-W2023/tree/main/Jupyter%20Notebook/1-Causal)|[Intro](https://github.com/DSME-6653/Web-W2023/blob/main/Slides/Web-W2023-1-Introduction.pdf)|[S1](https://www.dropbox.com/scl/fo/nmpyvkjfewl6i31kfgokk/h?rlkey=5ytr7r28v1r37hj2jxc9ufbx4&dl=0)|DSME6653||
-|2|12.12|Philip Zhang|A/B Testing||||||
+|2|12.12|Philip Zhang|A/B Testing|[AB](https://github.com/DSME-6653/Web-W2023/tree/main/Jupyter%20Notebook/1-Causal)|||||
 |3|12.19|Philip Zhang|Regression & Matching||||||
 |4|01.02|Philip Zhang|IV & Panel||||||
 |5|01.09|Philip Zhang|ML & Causal||||||
